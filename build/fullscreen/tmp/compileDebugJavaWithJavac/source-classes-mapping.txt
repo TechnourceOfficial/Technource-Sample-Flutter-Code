@@ -1,0 +1,2 @@
+com/hustlance/fullscreen/BuildConfig.java
+ com.hustlance.fullscreen.BuildConfig

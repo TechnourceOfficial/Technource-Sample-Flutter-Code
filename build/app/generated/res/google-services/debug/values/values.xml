@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">215089928420-p4djq9lmd8uigdlcc3akb3f2vpfemblb.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">215089928420</string>
+    <string name="google_api_key" translatable="false">AIzaSyCDzkn1Jvtil3NhvraVQmw5WEm9zzZso70</string>
+    <string name="google_app_id" translatable="false">1:215089928420:android:84547fa526560411bff4f1</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCDzkn1Jvtil3NhvraVQmw5WEm9zzZso70</string>
+    <string name="google_storage_bucket" translatable="false">cut-it-technource.appspot.com</string>
+    <string name="project_id" translatable="false">cut-it-technource</string>
+</resources>

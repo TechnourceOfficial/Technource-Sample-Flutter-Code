@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "215089928420",
+    "project_id": "cut-it-technource",
+    "storage_bucket": "cut-it-technource.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215089928420:android:84547fa526560411bff4f1",
+        "android_client_info": {
+          "package_name": "com.cutit.technource"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215089928420-sns8p7s5sglrt87pfbuumlskfb3taiql.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cutit.technource",
+            "certificate_hash": "0187450c65044b86bc3557bc10cd2b726feff18a"
+          }
+        },
+        {
+          "client_id": "215089928420-p4djq9lmd8uigdlcc3akb3f2vpfemblb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDzkn1Jvtil3NhvraVQmw5WEm9zzZso70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215089928420-p4djq9lmd8uigdlcc3akb3f2vpfemblb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "215089928420-5kmvg8npck1e9hop1bfaqd1vte5q0do4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cutit.technource"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

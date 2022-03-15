@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/var/sourabh/flutterProject/cut-it-flutter/build/webview_flutter/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/technource/.gradle/caches/transforms-2/files-2.1/3ad0cca8344060752fa0d061052447e1/core-1.1.0/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/var/sourabh/flutterProject/cut-it-flutter/build/webview_flutter/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/technource/.gradle/caches/transforms-2/files-2.1/3ad0cca8344060752fa0d061052447e1/core-1.1.0/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/var/sourabh/flutterProject/cut-it-flutter/build/webview_flutter/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/technource/.gradle/caches/transforms-2/files-2.1/3ad0cca8344060752fa0d061052447e1/core-1.1.0/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/var/sourabh/flutterProject/cut-it-flutter/build/webview_flutter/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/technource/.gradle/caches/transforms-2/files-2.1/3ad0cca8344060752fa0d061052447e1/core-1.1.0/res/layout-v21/notification_template_icon_group.xml"
+    }
+]
